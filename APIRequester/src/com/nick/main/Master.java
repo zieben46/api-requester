@@ -26,5 +26,6 @@ public class Master {
 	
 	public static void restart() {
 		new APIChooserGUI();
+		
 	}
 }
